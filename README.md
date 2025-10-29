@@ -120,14 +120,14 @@
 ---
 
 ### 7. Card Management
-<img src="/assets/screen/7.png" width="250" alt="Card Management"/>
+<img src="/assets/screen/4.png" width="250" alt="Card Management"/>
 
 *Beautiful card swiper with multiple card support and settings*
 
 ---
 
 ### 8. Profile Settings
-<img src="/assets/screen/8.png" width="250" alt="Profile Settings"/>
+<img src="/assets/screen/7.png" width="250" alt="Profile Settings"/>
 
 *User profile with stats, settings, and support options*
 
