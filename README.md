@@ -78,63 +78,63 @@
 ## 📸 Screenshots
 
 ### 1. Splash Screen
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/1.png" width="250" alt="Splash Screen"/>
+<img src="/assets/screen/1.png" width="250" alt="Splash Screen"/>
 
 *Welcome to PayFlow Pro with animated logo and smooth transitions*
 
 ---
 
 ### 2. Login Screen
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/2.png" width="250" alt="Login Screen"/>
+<img src="/assets/screen/2.png" width="250" alt="Login Screen"/>
 
 *Beautiful glassmorphism login with social media integration*
 
 ---
 
 ### 3. Registration Screen
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/3.png" width="250" alt="Registration Screen"/>
+<img src="/assets/screen/3.png" width="250" alt="Registration Screen"/>
 
 *Quick and easy registration process with modern design*
 
 ---
 
 ### 4. Home Dashboard
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/4.png" width="250" alt="Home Dashboard"/>
+<img src="/assets/screen/4.png" width="250" alt="Home Dashboard"/>
 
 *Main dashboard with balance cards, quick actions, and analytics*
 
 ---
 
 ### 5. Send Money
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/5.png" width="250" alt="Send Money"/>
+<img src="/assets/screen/5.png" width="250" alt="Send Money"/>
 
 *Instant money transfer with recent contacts and amount presets*
 
 ---
 
 ### 6. Transaction History
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/6.png" width="250" alt="Transaction History"/>
+<img src="/assets/screen/6.png" width="250" alt="Transaction History"/>
 
 *Complete transaction list with filters and swipe actions*
 
 ---
 
 ### 7. Card Management
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/7.png" width="250" alt="Card Management"/>
+<img src="/assets/screen/7.png" width="250" alt="Card Management"/>
 
 *Beautiful card swiper with multiple card support and settings*
 
 ---
 
 ### 8. Profile Settings
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/8.png" width="250" alt="Profile Settings"/>
+<img src="/assets/screen/8.png" width="250" alt="Profile Settings"/>
 
 *User profile with stats, settings, and support options*
 
 ---
 
 ### 9. Card Details
-<img src="/Users/suhaib/Desktop/Bank-App-flutter-UI/assets/screen/9.png" width="250" alt="Card Details"/>
+<img src="/assets/screen/9.png" width="250" alt="Card Details"/>
 
 *Detailed card view with chip design and quick actions*
 
